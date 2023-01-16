@@ -1,8 +1,6 @@
-console.log("Hello, world!");
-
-function test() {
-  console.log("test");
+function hello() {
+  console.log("Hello, worold!");
 }
 
-test();
+hello();
 
